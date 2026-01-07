@@ -1,4 +1,4 @@
-# 🏠 Satellite Imagery-Based Property Valuation
+# 🏠 Property valuation based on satellite imagery
 
 A multimodal deep learning approach to real estate valuation using satellite imagery and tabular data. This project combines **EfficientNet-B0** (CNN) for visual feature extraction with **CatBoost** for final price prediction, achieving **R² = 0.91** on the validation set.
 
@@ -50,8 +50,8 @@ Satellite-Imagery-Based-Property-Valuation-/
 
 #### Step 1: Clone Repository
 ```bash
-git clone https://github.com/ankit-raj00/Satellite-Imagery-Based-Property-Valuation-.git
-cd Satellite-Imagery-Based-Property-Valuation-
+git clone (https://github.com/punitd-source/Property-valuation-based-on-satellite-imagery)
+cd Property-valuation-based-on-satellite-valuation
 ```
 
 #### Step 2: Install Dependencies
